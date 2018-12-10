@@ -2,7 +2,7 @@
 **30/11/2018**
 
 # Levblockchain LVE
-![alt](https://github.com/Levblockchain/Levblockchain-LVE/blob/master/Levblockchain%20LVE%20logo.png)
+![alt](https://github.com/LevblockchainLVE/LevblockchainLVE/blob/master/Levblockchain%20LVE%20logo.png)
 ---
 
 ## TEAM
