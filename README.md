@@ -8,7 +8,9 @@ information_about: info@lveblockchain.org
 ![alt](https://github.com/LevblockchainLVE/LevblockchainLVE/blob/master/v%201.1%2010%20Mar%202019-03.png)
 ![alt](https://github.com/LevblockchainLVE/LevblockchainLVE/blob/master/v%201.1%2010%20Mar%202019-04.png)
 ![alt](https://github.com/LevblockchainLVE/LevblockchainLVE/blob/master/v%201.1%2010%20Mar%202019-05.png)
-![alt](
-![alt](
-![alt](
-![alt](
+![alt](https://github.com/LevblockchainLVE/LevblockchainLVE/blob/master/v%201.1%2010%20Mar%202019-06.png)
+![alt](https://github.com/LevblockchainLVE/LevblockchainLVE/blob/master/v%201.1%2010%20Mar%202019-07.png)
+![alt](https://github.com/LevblockchainLVE/LevblockchainLVE/blob/master/v%201.1%2010%20Mar%202019-08.png)
+![alt](https://github.com/LevblockchainLVE/LevblockchainLVE/blob/master/v%201.1%2010%20Mar%202019-09.png)
+![alt](https://github.com/LevblockchainLVE/LevblockchainLVE/blob/master/v%201.1%2010%20Mar%202019-10.png)
+![alt](https://github.com/LevblockchainLVE/LevblockchainLVE/blob/master/v%201.1%2010%20Mar%202019-11.png)
